@@ -1,0 +1,15 @@
+#
+# Crossover: GARealUniformCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.3
+# pCrossover: 0.9
+#
+# Crossover: GARealUniformCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.4
+# pCrossover: 0.8
+#
+# Crossover: GARealOnePointCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.3
+# pCrossover: 0.8

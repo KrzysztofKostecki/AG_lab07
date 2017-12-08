@@ -1,0 +1,80 @@
+#
+# Crossover: GARealUniformCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.1
+# pCrossover: 0.8
+#
+# Crossover: GARealUniformCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.3
+# pCrossover: 0.9
+#
+# Crossover: GARealUniformCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.4
+# pCrossover: 0.9
+#
+# Crossover: GARealUniformCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.4
+# pCrossover: 0.8
+#
+# Crossover: GARealEvenOddCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.1
+# pCrossover: 0.8
+#
+# Crossover: GARealEvenOddCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.2
+# pCrossover: 0.9
+#
+# Crossover: GARealEvenOddCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.5
+# pCrossover: 0.7
+#
+# Crossover: GARealOnePointCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.1
+# pCrossover: 0.6
+#
+# Crossover: GARealOnePointCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.2
+# pCrossover: 0.9
+#
+# Crossover: GARealOnePointCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.2
+# pCrossover: 0.7
+#
+# Crossover: GARealOnePointCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.3
+# pCrossover: 0.8
+#
+# Crossover: GARealOnePointCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.3
+# pCrossover: 0.7
+#
+# Crossover: GARealTwoPointCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.3
+# pCrossover: 0.8
+#
+# Crossover: GARealTwoPointCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.4
+# pCrossover: 0.6
+#
+# Crossover: GARealTwoPointCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.4
+# pCrossover: 0.5
+#
+# Crossover: GARealTwoPointCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.5
+# pCrossover: 0.8

@@ -1,0 +1,11 @@
+#
+# Crossover: GARealUniformCrossover
+# Mutator: GARealSwapMutator
+# pMutation: 0.4
+# pCrossover: 0.8
+#
+# Results
+# On-line: 858.162
+# Off-line: 0.348364
+# Best: 0.0609268
+# Avg of last population: 0.0609268
